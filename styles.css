@@ -100,8 +100,8 @@ p {
 
 @media (max-width: 600px) {
     html body {
-        background-color: aquamarine;
-    }
+ /*       background-color: aquamarine;
+  */  }
     
 header nav {
     color: white;
@@ -144,8 +144,8 @@ header nav {
 }
 @media (max-width: 400px) {
     html body {
-        background-color: red;
-    }
+ /*       background-color: red;
+  */  }
     
 header nav {
     color: white;
@@ -184,6 +184,5 @@ header nav {
         width: 90%;
         height:35%;
 }
-
 }
 
