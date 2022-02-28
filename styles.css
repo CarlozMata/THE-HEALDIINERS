@@ -148,7 +148,9 @@ header nav {
       
        li img {
         width: 90%;
-        height:35%;
+        height:35%; /*NO PONERLE..*/
+/*        object-fit: cover; Si necesito una imagen que se vea de calidad pero se recortaria */
+/*max-width: 90%; */
 }
 
 }
